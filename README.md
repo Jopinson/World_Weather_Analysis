@@ -1,1 +1,2 @@
 # World_Weather_Analysis
+I was assigned a new task, create an interactive vacation search. With this module you are able to pick your ideal temperatures and then it'll generate up to 2000 places that match that temperature. It will then create a map with markers on locations providing hotel and weather information. Once your destination is selected, the Itinerary feature will provide the directions for driving or biycycling!
